@@ -1,0 +1,13 @@
+.git
+Dockerfile
+
+/docs/
+/lib/
+/bin/
+/.shards/
+*.dwarf
+start_server
+*.dwarf
+*.local.cr
+.env
+/tmp
